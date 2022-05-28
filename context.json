@@ -1,0 +1,15 @@
+{	
+    "mcu" : "atmega328p",
+    "arch" : "AVR_NANO",
+    "baudrate" : 57600,
+    "cpu_clock" : 16000000,
+    "arduino_version" : 18,
+    
+	"cflags": [
+    	"-I\"{board}/include\""
+    ],
+    "libflags" : [
+    	"-L\"{board}/lib\"",
+    	"-mmcu=atmega328old"
+    ]
+}
