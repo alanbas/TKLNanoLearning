@@ -8,5 +8,5 @@ module.exports = {
     email : 'tklrobolab@gmail.com',
     git : 'https://github.com/alanbas/TKL-Nano-learning-Board/',    
     image : '/static/display.png',
-    version : '1.0.2',
+    version : '1.0.1',
 };
