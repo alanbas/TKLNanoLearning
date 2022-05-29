@@ -6,7 +6,7 @@ module.exports = {
     author : 'TklRobot',
     website : 'http://www.tklrobot.com/product/105/tkl-nano-learning-shield',
     email : 'tklrobolab@gmail.com',
-    git : 'https://github.com/alanbas/TKL-Nano-learning-Board/',    
+    git : 'https://github.com/alanbas/TKLNanoLearning/',    
     image : '/static/display.png',
     version : '1.0.1',
 };
